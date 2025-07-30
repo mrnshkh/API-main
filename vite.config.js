@@ -5,7 +5,8 @@ import { defineConfig } from 'vite';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
-  publicDir: resolve(__dirname, 'public'), // 👈 обязательно
+  base: '/api/', // 🔥 ОБЯЗАТЕЛЬНО для GitHub Pages!
+  publicDir: resolve(__dirname, 'public'),
   esbuild: {
     target: 'esnext'
   },
