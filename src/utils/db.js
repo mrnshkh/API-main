@@ -1,11 +1,11 @@
 export const mainCards=[
     {
-        img: "/public/traktor_57hh8ktlwzih 1 (1).png",
+        img: " /traktor_57hh8ktlwzih 1 (1).png",
     title: "Выезд механика",
     text: "Бесплатно приедем, проверим, подберём"
     },
     {
-        img: "/public/ins.png",
+        img: " /ins.png",
         title: "10 000 запчастей",
         text: "В наличии - отгружаем сразу."
 
@@ -16,38 +16,38 @@ export const mainCards=[
         text: "По всей России- без задержек."
     },
     {
-        img:"/public/gar.png",
+        img:" /gar.png",
         title:"Гарантия 12 месяцев",
         text: " Не подошло? Вернём деньги."
     }
 ]
 export const cards = [
     {
-        img: "/public/cardpng.png",
+        img: " /cardpng.png",
   title: "0000118101 Сенсор Оборотов Claas",
   price: "17 850.00 р.",
   about: "Актуальность цены уточняйте у менеджера"
     },
       {
-        img: "/public/cardpng.png",
+        img: " /cardpng.png",
   title: "0000118101 Сенсор Оборотов Claas",
   price: "17 850.00 р.",
   about: "Актуальность цены уточняйте у менеджера"
     },
       {
-        img: "/public/cardpng.png",
+        img: " /cardpng.png",
   title: "0000118101 Сенсор Оборотов Claas",
   price: "17 850.00 р.",
   about: "Актуальность цены уточняйте у менеджера"
     },
       {
-        img: "/public/cardpng.png",
+        img: " /cardpng.png",
   title: "0000118101 Сенсор Оборотов Claas",
   price: "17 850.00 р.",
   about: "Актуальность цены уточняйте у менеджера"
     },
       {
-        img: "/public/cardpng.png",
+        img: " /cardpng.png",
   title: "0000118101 Сенсор Оборотов Claas",
   price: "17 850.00 р.",
   about: "Актуальность цены уточняйте у менеджера"
@@ -56,35 +56,35 @@ export const cards = [
 export const discountedCards = [
   {
   
-    img: "/public/new.png",
+    img: " /new.png",
     title: "Масло Моторное",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера",
   },
   {
     
-    img: "/public/new.png ",
+    img: " /new.png ",
     title: "Фильтр топливный",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера",
   },
     {
   
-    img: "/public/new.png",
+    img: " /new.png",
     title: "Масло Моторное",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера",
   },
   {
     
-    img: "/public/new.png ",
+    img: " /new.png ",
     title: "Фильтр топливный",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера",
   },
    {
     
-    img: "/public/new.png ",
+    img: " /new.png ",
     title: "Фильтр топливный",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера",
@@ -92,37 +92,37 @@ export const discountedCards = [
 ];
 export const newcards=[
   {
-       img:"/public/foto.png",
+       img:" /foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
   },
    {
-       img:"/public/foto.png",
+       img:" /foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
   },
    {
-       img:"/public/foto.png",
+       img:" /foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
   },
    {
-       img:"/public/foto.png",
+       img:" /foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
   },
    {
-       img:"/public/foto.png",
+       img:" /foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
   },
    {
-       img:"/public/foto.png",
+       img:" /foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
@@ -134,31 +134,31 @@ export const newcards=[
 ]
 export const hitcards=[
   {
-    img:"/public/hits.png",
+    img:" /hits.png",
     title: "98606882 Электронный блок",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера"
   },
     {
-    img:"/public/hits.png",
+    img:" /hits.png",
     title: "98606882 Электронный блок",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера"
   },
     {
-    img:"/public/hits.png",
+    img:" /hits.png",
     title: "98606882 Электронный блок",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера"
   },
     {
-    img:"/public/hits.png",
+    img:" /hits.png",
     title: "98606882 Электронный блок",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера"
   },
     {
-    img:"/public/hits.png",
+    img:" /hits.png",
     title: "98606882 Электронный блок",
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера"
@@ -168,42 +168,42 @@ export const hitcards=[
 export const categories = [
   {
     name: "Тракторы",
-    image: "/public/traktor.png",
+    image: " /traktor.png",
     link: "/CLAAS"
   },
  {
     name: "Тракторы",
-    image: "/public/traktor.png",
+    image: " /traktor.png",
     link: "/CLAAS"
   },
   {
     name: "Тракторы",
-    image: "/public/traktor.png",
+    image: " /traktor.png",
     link: "/CLAAS"
   },
   {
     name: "Тракторы",
-    image: "/public/traktor.png",
+    image: " /traktor.png",
     link: "/CLAAS"
   },
     {
     name: "Тракторы",
-    image: "/public/traktor.png",
+    image: " /traktor.png",
     link: "/CLAAS"
   },
  {
     name: "Тракторы",
-    image: "/public/traktor.png",
+    image: " /traktor.png",
     link: "/CLAAS"
   },
   {
     name: "Тракторы",
-    image: "/public/traktor.png",
+    image: " /traktor.png",
     link: "/CLAAS"
   },
   {
     name: "Тракторы",
-    image: "/public/traktor.png",
+    image: " /traktor.png",
     link: "/CLAAS"
   },
 

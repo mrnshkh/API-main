@@ -4,7 +4,7 @@ export function head() {
 
   head.innerHTML = `
     <h3 class="headtxt">Категория</h3>
-    <img src="../../public/menu-01.png" alt="">
+    <img src="../.. /menu-01.png" alt="">
   `;
 
   return head;

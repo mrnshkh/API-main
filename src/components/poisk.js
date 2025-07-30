@@ -3,7 +3,7 @@ export function Poisk() {
   poisk.className = "search";
 
   const img = document.createElement("img");
-  img.src = "/public/search-md (1).png";
+  img.src = " /search-md (1).png";
   img.alt = "";
 
   const input = document.createElement("input");

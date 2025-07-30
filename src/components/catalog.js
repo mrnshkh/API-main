@@ -96,7 +96,7 @@ export function renderCatalog(brandName = "Каталог") {
           </div>
           <div class="category-block">
             <div class="category-header">
-              <img src="/public/123.png" class="category-icon" alt="Прицеп-самопогрузчики">
+              <img src=" /123.png" class="category-icon" alt="Прицеп-самопогрузчики">
               <h3>Прицеп-самопогрузчики</h3>
             </div>
             <div class="product-list">

@@ -4,7 +4,7 @@ export function Footer() {
   footer.innerHTML = `
     <div class="navs">
       <div class="footer-logo">
-        <img src="/public/Frame 10.png" alt="Логотип">
+        <img src=" /Frame 10.png" alt="Логотип">
       </div>
 
       <nav class="nav1">
@@ -31,15 +31,15 @@ export function Footer() {
 
       <nav class="nav4">
         <div class="footer-contact">
-          <img src="/public/marker-pin-01.png" alt="">
+          <img src=" /marker-pin-01.png" alt="">
           <a href="#">Красноярск, Металлургов 2Т, офис 207</a>
         </div>
         <div class="footer-contact">
-          <img src="/public/phone-call-01.png" alt="">
+          <img src=" /phone-call-01.png" alt="">
           <a href="#">+7 (391)-989-81-81</a>
         </div>
         <div class="footer-contact">
-          <img src="/public/mail-01.png" alt="">
+          <img src=" /mail-01.png" alt="">
           <a href="#">info@agropartner-import.ru</a>
         </div>
       </nav>

@@ -23,7 +23,7 @@ export function createCard(card) {
   button.className = "order";
 
   const cartIcon = document.createElement("img");
-  cartIcon.src = "/public/shopping-cart-03.png";
+  cartIcon.src = " /shopping-cart-03.png";
   cartIcon.alt = "";
 
   button.appendChild(cartIcon);

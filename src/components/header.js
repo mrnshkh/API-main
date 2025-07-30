@@ -3,7 +3,7 @@ export function Header() {
 
   header.innerHTML = `
     <div class="logo">
-      <img src="/public/Frame 10.png" alt="Логотип">
+      <img src=" /Frame 10.png" alt="Логотип">
     </div>
     <div class="right-side">
       <nav class="main-nav">
@@ -12,10 +12,10 @@ export function Header() {
         <a href="">Доставка</a>
         <a href="/contact">Контакты</a>
         <a href="/vacancy">Вакансии</a>
-        <img src="/public/Frame 1171276439.png" alt="Иконка">
+        <img src=" /Frame 1171276439.png" alt="Иконка">
       </nav>
       <div class="phone">
-        <img src="/public/Icon.png" alt="">
+        <img src=" /Icon.png" alt="">
         <p >+7 (391)-989-81-81</p>
       </div>
     </div>
