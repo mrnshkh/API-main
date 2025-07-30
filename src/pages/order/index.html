@@ -1,0 +1,60 @@
+<body>
+  <div class="container">
+    <header></header>
+
+    <div class="bloks">
+      <div class="category"></div>
+      <div class="search-wrapper"></div>
+    </div>
+
+    <!-- ⬇️ Добавляем сюда заказ и модалку -->
+    <div class="order-section">
+      <!-- Карточка товара -->
+      <div class="order-card">
+        <img src="/img/sensor.png" alt="Сенсор" />
+        <div class="order-info">
+          <p class="teg">0000118101 Сенсор Оборотов Claas</p>
+          <p class="about">Наличие уточняйте у менеджера по тел. +7 (937) 622-07-07</p>
+          <p class="price">17 850.00 р.</p>
+          <p class="about">Актуальность цены уточняйте у менеджера</p>
+        </div>
+      </div>
+
+      <!-- Форма заказа -->
+      <div class="order-form-wrapper">
+        <h2 class="teg1">Оформить заказ</h2>
+        <form id="orderForm">
+          <div class="grid">
+                <input type="text" placeholder="Ваше имя*" required />
+          <input type="tel" placeholder="Ваш телефон*" required />
+          <input type="email" placeholder="Ваш e-mail*" required />
+          <input type="text" placeholder="Ваш город" />
+          </div>
+          <textarea placeholder="Комментарий"></textarea>
+          <div class="form-footer">
+            <span class="price">Итого </span>
+            <p class="price">17 850.00 р.</p>
+          </div>
+          <button type="submit" class="submit-btn">Заказать</button>
+           <p>
+  Отправляя данные через форму, вы соглашаетесь с <a href="#" class="privacy-link">политикой обработки персональных данных</a>
+</p>
+
+        </form>
+      </div>
+    </div>
+
+    <footer></footer>
+  </div>
+
+  <!-- Модалка успешного оформления -->
+  <div class="modal" id="customSuccessModal">
+    <div class="modal-content">
+      <span class="custom-close">&times;</span>
+      <h3>Ваш заказ оформлен!</h3>
+      <p>Номер заявки: #12567.</p>
+      <p>Менеджер свяжется с вами в течение 15 минут.</p>
+      <button class="modal-ok">Ок</button>
+    </div>
+  </div>
+</body>

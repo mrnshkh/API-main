@@ -1,0 +1,1 @@
+import{H as t,F as c}from"./footer-BoHAyPPh.js";import{P as a,h as p}from"./poisk-BT3zW-DS.js";const e=document.querySelector(".search-wrapper");e&&e.appendChild(a());const r=document.querySelector("header");r&&r.replaceWith(t());const o=document.querySelector("footer");o&&o.replaceWith(c());const d=document.querySelector(".category");d.prepend(p());
