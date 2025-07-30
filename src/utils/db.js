@@ -92,31 +92,37 @@ export const discountedCards = [
 ];
 export const newcards=[
   {
-       img:"/public/pit.png",
+       img:"/public/foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
   },
    {
-       img:"/public/pit.png",
+       img:"/public/foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
   },
    {
-       img:"/public/pit.png",
+       img:"/public/foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
   },
    {
-       img:"/public/pit.png",
+       img:"/public/foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
   },
    {
-       img:"/public/pit.png",
+       img:"/public/foto.png",
+       title: "98606882 Электронный блок",
+       price: "17 850.00 р.",
+       about: "Актуальность цены уточняйте у менеджера"
+  },
+   {
+       img:"/public/foto.png",
        title: "98606882 Электронный блок",
        price: "17 850.00 р.",
        about: "Актуальность цены уточняйте у менеджера"
@@ -157,4 +163,48 @@ export const hitcards=[
     price: "17 850.00 р.",
     about: "Актуальность цены уточняйте у менеджера"
   },
+  
 ]
+export const categories = [
+  {
+    name: "Тракторы",
+    image: "/public/traktor.png",
+    link: "/CLAAS"
+  },
+ {
+    name: "Тракторы",
+    image: "/public/traktor.png",
+    link: "/CLAAS"
+  },
+  {
+    name: "Тракторы",
+    image: "/public/traktor.png",
+    link: "/CLAAS"
+  },
+  {
+    name: "Тракторы",
+    image: "/public/traktor.png",
+    link: "/CLAAS"
+  },
+    {
+    name: "Тракторы",
+    image: "/public/traktor.png",
+    link: "/CLAAS"
+  },
+ {
+    name: "Тракторы",
+    image: "/public/traktor.png",
+    link: "/CLAAS"
+  },
+  {
+    name: "Тракторы",
+    image: "/public/traktor.png",
+    link: "/CLAAS"
+  },
+  {
+    name: "Тракторы",
+    image: "/public/traktor.png",
+    link: "/CLAAS"
+  },
+
+];

@@ -10,13 +10,13 @@ export function Header() {
         <a href="">О нас</a>
         <a href="">Блог</a>
         <a href="">Доставка</a>
-        <a href="">Контакты</a>
-        <a href="">Вакансии</a>
+        <a href="/contact">Контакты</a>
+        <a href="/vacancy">Вакансии</a>
         <img src="/public/Frame 1171276439.png" alt="Иконка">
       </nav>
       <div class="phone">
         <img src="/public/Icon.png" alt="">
-        <p>+7 (391)-989-81-81</p>
+        <p >+7 (391)-989-81-81</p>
       </div>
     </div>
   `;

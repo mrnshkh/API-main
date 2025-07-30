@@ -5,6 +5,7 @@ export function createCard(card) {
   const img = document.createElement("img");
   img.src = card.img;
   img.alt = "";
+  img.className="foto"
 
   const h3 = document.createElement("h3");
   h3.className = "teg";
