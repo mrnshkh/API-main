@@ -1,1 +1,2 @@
-import './src/script.js';
+// main.js
+import './src/script.js'

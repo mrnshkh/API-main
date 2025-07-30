@@ -7,7 +7,10 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+  "postbuild": "node fix-paths.js"
+  
+
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
